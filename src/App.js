@@ -44,7 +44,7 @@ function App() {
       showAlert("Light mode has been enabled", "success");
       document.title = "TextUtils - Light Mode";
     }
-  };hgh
+  };
   return (
     <>
       {/* <Navbar title="TextUtils" aboutText="About TextUtils" /> */}
